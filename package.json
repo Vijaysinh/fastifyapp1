@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@fastify/autoload": "^5.7.1",
+    "fastify": "^4.22.2",
+    "fastify-cli": "^5.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
